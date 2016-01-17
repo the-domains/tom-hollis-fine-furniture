@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:03:52.892Z'
-dateModified: '2016-01-17T13:03:52.474Z'
+datePublished: '2016-01-17T13:06:52.019Z'
+dateModified: '2016-01-17T13:06:46.852Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-17-mahogany-end-table.md
@@ -19,9 +19,9 @@ publisher:
   url: null
   favicon: null
 url: mahogany-end-table/index.html
-_type: Blurb
+_type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5e487bb32f7c608842359a1bd1f76b3bd04fa4f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b708227b05ea7046617f1b8508ed16d024b0fc62.jpg)
 
 A mahogany end table with single drawer and adorned with inlay of holly and walnut.  Table is 29" h x 22" w x 22" d.
