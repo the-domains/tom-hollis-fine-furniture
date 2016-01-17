@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-17T14:40:25.843Z'
+datePublished: '2016-01-17T14:40:25.842Z'
 dateModified: '2016-01-17T14:40:17.450Z'
 title: Handmade Fine Furniture
 author: []
