@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Handmade furniture ]]></title>
-        <description><![CDATA[Handmade furniture ]]></description>
+        <title><![CDATA[Tom Hollis Fine Furniture]]></title>
+        <description><![CDATA[Tom Hollis Fine Furniture]]></description>
         <link>https://thegrid.ai/tom-hollis-fine-furniture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 12:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 12:29:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tom-hollis-fine-furniture/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tom Hollis Fine Furniture]]></title>
             <description><![CDATA[<article><h1>Tom Hollis Fine Furniture</h1><p>Tables</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c55e957a94035841ca1b4f11fac5856793b433a.jpg"></article>]]></description>
             <link>https://thegrid.ai/tom-hollis-fine-furniture/thos-hollis-fine-furniture/index.html</link>
             <guid isPermaLink="false">1f2d1e13-eea4-4812-8187-b562af7b9b6f</guid>
-            <pubDate>Sun, 17 Jan 2016 12:19:01 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 12:29:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
