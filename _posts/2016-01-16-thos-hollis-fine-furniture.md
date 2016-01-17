@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T02:18:39.125Z'
-dateModified: '2016-01-17T02:18:38.693Z'
+datePublished: '2016-01-17T02:24:03.258Z'
+dateModified: '2016-01-17T02:23:57.087Z'
 title: Tom Hollis Fine Furniture
 author: []
 sourcePath: _posts/2016-01-16-thos-hollis-fine-furniture.md
@@ -29,6 +29,6 @@ Tables
 ![Shaker Sewing Table](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2e730f75e8746dd5b75cc07c8f22a6e321619d9.jpg)
 
 Chairs
-![Walnut Side Chair](https://s3-us-west-2.amazonaws.com/the-grid-img/p/23ca640eb2b623e68155142c790166940cf89060.jpg)
+![Walnut Side Chair](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4cf76ad13f38d247d49b71570d77d5f3a298cad.jpg)
 
 Casework
