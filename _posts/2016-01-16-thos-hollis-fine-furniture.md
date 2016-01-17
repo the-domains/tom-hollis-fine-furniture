@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-17T14:40:29.532Z'
-dateModified: '2016-01-17T14:40:28.386Z'
+datePublished: '2016-01-17T14:40:30.152Z'
+dateModified: '2016-01-17T14:40:28.356Z'
 title: Handmade Fine Furniture
 author: []
 sourcePath: _posts/2016-01-16-thos-hollis-fine-furniture.md
