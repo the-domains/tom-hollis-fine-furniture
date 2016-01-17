@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T12:46:21.066Z'
-dateModified: '2016-01-17T12:46:20.929Z'
+datePublished: '2016-01-17T12:46:21.105Z'
+dateModified: '2016-01-17T12:46:20.902Z'
 title: Tom Hollis Fine Furniture
 author: []
 sourcePath: _posts/2016-01-16-thos-hollis-fine-furniture.md
