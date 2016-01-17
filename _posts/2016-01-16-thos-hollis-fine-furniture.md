@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T01:37:22.892Z'
-dateModified: '2016-01-17T01:35:15.018Z'
+datePublished: '2016-01-17T02:03:59.249Z'
+dateModified: '2016-01-17T01:46:07.418Z'
 title: Tom Hollis Fine Furniture
 author: []
+sourcePath: _posts/2016-01-16-thos-hollis-fine-furniture.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-16-thos-hollis-fine-furniture.md
-published: true
 url: thos-hollis-fine-furniture/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14ba6761-ae2a-4b71-8e9f-2779238568f4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/81ad0691727db0e14ec79ea7deb4b5ee4856265e.jpg)
 
 Tables
 ![Mahogany Inlay Table](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8d72659-2c22-4f8f-ac3c-0b5d5a224500.jpg)
