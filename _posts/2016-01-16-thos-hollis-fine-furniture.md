@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T12:29:10.437Z'
-dateModified: '2016-01-17T12:29:10.204Z'
+datePublished: '2016-01-17T12:39:00.763Z'
+dateModified: '2016-01-17T12:38:52.253Z'
 title: Tom Hollis Fine Furniture
 author: []
 sourcePath: _posts/2016-01-16-thos-hollis-fine-furniture.md
@@ -22,7 +22,8 @@ url: thos-hollis-fine-furniture/index.html
 _type: Article
 
 ---
-Tables
-![Mahogany Inlay Table](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bde54224422f1cb446acc5ac93b9a3407a831c8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c55e957a94035841ca1b4f11fac5856793b433a.jpg)
 
-A mahogany end table with single drawer and adorned with inlay of holly and walnut.  Table is 29" h x 22" w x 22" d.
+Fine handmade furniture
+
+Tom Hollis, Winston-Salem, NC
