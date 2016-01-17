@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T02:26:54.267Z'
-dateModified: '2016-01-17T02:26:53.816Z'
+datePublished: '2016-01-17T11:54:25.307Z'
+dateModified: '2016-01-17T11:54:02.925Z'
 title: Tom Hollis Fine Furniture
 author: []
 sourcePath: _posts/2016-01-16-thos-hollis-fine-furniture.md
@@ -22,10 +22,8 @@ url: thos-hollis-fine-furniture/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/81ad0691727db0e14ec79ea7deb4b5ee4856265e.jpg)
-
 Tables
-![Mahogany Inlay Table](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bec1d3d2a4ce0e3381452fce59f7c3ad9cdd31da.jpg)
+![Mahogany Inlay Table](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bde54224422f1cb446acc5ac93b9a3407a831c8.jpg)
 ![Shaker Sewing Table](https://s3-us-west-2.amazonaws.com/the-grid-img/p/522dcabede07050a422f837afa402dda52c8a255.jpg)
 
 Chairs
