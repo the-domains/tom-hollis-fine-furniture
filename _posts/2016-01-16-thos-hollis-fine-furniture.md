@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:02:18.298Z'
-dateModified: '2016-01-17T13:02:17.680Z'
-title: Fine Handmade Furniture
+datePublished: '2016-01-17T14:40:25.843Z'
+dateModified: '2016-01-17T14:40:17.450Z'
+title: Handmade Fine Furniture
 author: []
 sourcePath: _posts/2016-01-16-thos-hollis-fine-furniture.md
 published: true
@@ -22,7 +22,7 @@ url: thos-hollis-fine-furniture/index.html
 _type: Article
 
 ---
-# Fine Handmade Furniture
+# Handmade Fine Furniture
 
 Tom Hollis, Winston-Salem, NC
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90b1ba1e-aff3-417a-8f43-0730f35eba17.jpg)
