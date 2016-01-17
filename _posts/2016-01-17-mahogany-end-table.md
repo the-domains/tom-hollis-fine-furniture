@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:06:53.250Z'
-dateModified: '2016-01-17T13:06:53.106Z'
+datePublished: '2016-01-17T13:06:53.287Z'
+dateModified: '2016-01-17T13:06:53.166Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-17-mahogany-end-table.md
