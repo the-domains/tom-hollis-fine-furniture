@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T12:06:23.481Z'
-dateModified: '2016-01-17T12:06:23.125Z'
+datePublished: '2016-01-17T12:09:46.265Z'
+dateModified: '2016-01-17T12:09:42.790Z'
 title: Tom Hollis Fine Furniture
 author: []
 sourcePath: _posts/2016-01-16-thos-hollis-fine-furniture.md
@@ -27,8 +27,3 @@ Tables
 
 A mahogany end table with single drawer and adorned with inlay of holly and walnut.  Table is 29" h x 22" w x 22" d.
 ![Shaker Sewing Table](https://s3-us-west-2.amazonaws.com/the-grid-img/p/522dcabede07050a422f837afa402dda52c8a255.jpg)
-
-Chairs
-![Walnut Side Chair](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7071343f69ee83d31e6374bdabdb609b4a319106.jpg)
-
-Casework
