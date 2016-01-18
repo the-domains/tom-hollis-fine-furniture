@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-17T21:00:38.016Z'
-dateModified: '2016-01-17T21:00:37.757Z'
+datePublished: '2016-01-17T21:00:38.065Z'
+dateModified: '2016-01-17T21:00:37.959Z'
 title: Classic Furniture for Modern Living
 author: []
 sourcePath: _posts/2016-01-16-thos-hollis-fine-furniture.md
