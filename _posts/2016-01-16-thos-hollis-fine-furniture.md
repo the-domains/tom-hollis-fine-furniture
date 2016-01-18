@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-17T21:02:50.537Z'
+datePublished: '2016-01-17T21:02:50.646Z'
 dateModified: '2016-01-17T21:02:50.234Z'
 title: Classic Furniture for Modern Living
 author: []
