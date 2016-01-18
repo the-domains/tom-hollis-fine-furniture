@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-17T14:40:29.873Z'
-dateModified: '2016-01-17T14:40:28.425Z'
-title: Handmade Fine Furniture
+datePublished: '2016-01-17T21:00:37.677Z'
+dateModified: '2016-01-17T21:00:23.289Z'
+title: Classic Furniture for Modern Living
 author: []
 sourcePath: _posts/2016-01-16-thos-hollis-fine-furniture.md
 published: true
@@ -22,7 +22,7 @@ url: thos-hollis-fine-furniture/index.html
 _type: Article
 
 ---
-# Handmade Fine Furniture
+# Classic Furniture for Modern Living
 
 Tom Hollis, Winston-Salem, NC
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90b1ba1e-aff3-417a-8f43-0730f35eba17.jpg)
